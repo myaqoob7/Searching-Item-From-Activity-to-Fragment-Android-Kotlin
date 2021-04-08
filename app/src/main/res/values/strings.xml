@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Searching Project</string>
+
+
+    <string name="tab_pakistan">Pakistan</string>
+    <string name="tab_india">India</string>
+    <string name="tab_bangladesh">Bangladesh</string>
+    <string name="tab_china">China</string>
+
+    <string name="search_city">Search City</string>
+    <string name="todo">TODO</string>
+</resources>
